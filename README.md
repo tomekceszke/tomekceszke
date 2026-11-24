@@ -1,11 +1,11 @@
 ### Hi, I'm Tomek 👋
 
-Principal Software Engineer with 20 years of experience, specializing in **Java** · **microservices** · **fintech**.
+Senior Software Engineer with 20 years of experience, specializing in **Java** · **Spring Boot** · **microservices** · **banking & fintech**.
 
-Currently a software engineer at a top-tier investment bank. Previously at Credit Suisse, Euronext, Hoffmann-La Roche, Adva Optical Networking and GetResponse.
+Currently a software engineer at **UBS** (Investment Bank), working on client onboarding and KYC. Previously at Credit Suisse, Euronext, Hoffmann-La Roche, Adva Optical Networking and GetResponse.
 
-Certified: **Azure AI Fundamentals** · **Oracle Certified Professional (Java)**
+Certified: **Oracle Certified Professional (Java)** · **Azure AI Fundamentals**
 
-After hours: fan of [Machine Learning & AI](https://github.com/tomekceszke?tab=repositories&q=machine-learning), [IoT](https://github.com/tomekceszke?tab=repositories&q=iot) and [Offensive Security](https://github.com/tomekceszke?tab=repositories&q=offensive-security).
+After hours: fan of [Machine Learning & AI](https://tomek.ceszke.com/projects.html#neural-networks), [IoT](https://tomek.ceszke.com/projects.html#home-automation) and [Offensive Security](https://github.com/tomekceszke/offensive-security).
 
-📄 [Full CV](https://tomek.ceszke.com/cv.html) · 💼 [LinkedIn](https://www.linkedin.com/in/tomekceszke)
+📄 [CV](https://tomek.ceszke.com/cv.html) · 🛠️ [Projects](https://tomek.ceszke.com/projects.html) · 💼 [LinkedIn](https://www.linkedin.com/in/tomekceszke)
